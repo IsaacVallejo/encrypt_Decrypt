@@ -2,9 +2,7 @@
 
 ## **Utilizing the Caesar Cipher Technique**
 
-...
 ---
-...
 ### Each letter of a given text is replaced by a letter with a fixed number of positions down the alphabet. 
 ![](https://media.geeksforgeeks.org/wp-content/uploads/ceaserCipher.png)
 
